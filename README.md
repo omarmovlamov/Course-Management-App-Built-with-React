@@ -11,6 +11,7 @@ This project comprises a course management application developed using React, Re
 </hr>
 This project serves as an excellent starting point for learning how to create the core functionality of an application using React and Redux. You can explore the project and customize it to kickstart your own projects.
 </hr>
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
